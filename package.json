@@ -1,9 +1,9 @@
 {
-  "name": "html-util",
+  "name": "k-html-util",
   "description": "Simple and fast html utilities for parsing and escaping",
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/html.git"
+    "url": "git://github.com/kantele/k-html-util.git"
   },
   "version": "0.2.1",
   "main": "./lib/index.js",
