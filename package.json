@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git://github.com/kantele/k-html-util.git"
   },
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "./lib/index.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,5 +16,17 @@
   "engines": {
     "node": ">=0.4.0"
   },
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/derbyjs/html-util/issues"
+  },
+  "homepage": "https://github.com/derbyjs/html-util#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Smith",
+  "license": "MIT"
 }
